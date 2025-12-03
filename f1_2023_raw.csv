@@ -1,0 +1,321 @@
+Year,Round,Circuit,TeamName,Abbreviation,QualiPos,GridPosition,ClassifiedPosition,Status,Time
+2023,1,Sakhir,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:33:56.736000
+2023,1,Sakhir,Red Bull Racing,PER,2.0,2.0,2,Finished,0 days 00:00:11.987000
+2023,1,Sakhir,Aston Martin,ALO,5.0,5.0,3,Finished,0 days 00:00:38.637000
+2023,1,Sakhir,Ferrari,SAI,4.0,4.0,4,Finished,0 days 00:00:48.052000
+2023,1,Sakhir,Mercedes,HAM,7.0,7.0,5,Finished,0 days 00:00:50.977000
+2023,1,Sakhir,Aston Martin,STR,8.0,8.0,6,Finished,0 days 00:00:54.502000
+2023,1,Sakhir,Mercedes,RUS,6.0,6.0,7,Finished,0 days 00:00:55.873000
+2023,1,Sakhir,Alfa Romeo,BOT,12.0,12.0,8,Finished,0 days 00:01:12.647000
+2023,1,Sakhir,Alpine,GAS,20.0,20.0,9,Finished,0 days 00:01:13.753000
+2023,1,Sakhir,Williams,ALB,15.0,15.0,10,Finished,0 days 00:01:29.774000
+2023,1,Sakhir,AlphaTauri,TSU,14.0,14.0,11,Finished,0 days 00:01:30.870000
+2023,1,Sakhir,Williams,SAR,16.0,16.0,12,Lapped,0 days 00:00:01.136000
+2023,1,Sakhir,Haas F1 Team,MAG,17.0,17.0,13,Lapped,0 days 00:00:16.757000
+2023,1,Sakhir,AlphaTauri,DEV,19.0,19.0,14,Lapped,0 days 00:00:22.523000
+2023,1,Sakhir,Haas F1 Team,HUL,10.0,10.0,15,Lapped,0 days 00:00:38.911000
+2023,1,Sakhir,Alfa Romeo,ZHO,13.0,13.0,16,Lapped,0 days 00:00:39.649000
+2023,1,Sakhir,McLaren,NOR,11.0,11.0,17,Lapped,0 days 00:00:06.636000
+2023,1,Sakhir,Alpine,OCO,9.0,9.0,R,Retired,
+2023,1,Sakhir,Ferrari,LEC,3.0,3.0,R,Retired,
+2023,1,Sakhir,McLaren,PIA,18.0,18.0,R,Retired,
+2023,2,Jeddah,Red Bull Racing,PER,1.0,1.0,1,Finished,0 days 01:21:14.894000
+2023,2,Jeddah,Red Bull Racing,VER,15.0,15.0,2,Finished,0 days 00:00:05.355000
+2023,2,Jeddah,Aston Martin,ALO,3.0,2.0,3,Finished,0 days 00:00:20.728000
+2023,2,Jeddah,Mercedes,RUS,4.0,3.0,4,Finished,0 days 00:00:25.866000
+2023,2,Jeddah,Mercedes,HAM,8.0,7.0,5,Finished,0 days 00:00:31.065000
+2023,2,Jeddah,Ferrari,SAI,5.0,4.0,6,Finished,0 days 00:00:35.876000
+2023,2,Jeddah,Ferrari,LEC,2.0,12.0,7,Finished,0 days 00:00:43.162000
+2023,2,Jeddah,Alpine,OCO,7.0,6.0,8,Finished,0 days 00:00:52.832000
+2023,2,Jeddah,Alpine,GAS,10.0,9.0,9,Finished,0 days 00:00:54.747000
+2023,2,Jeddah,Haas F1 Team,MAG,13.0,13.0,10,Finished,0 days 00:01:04.826000
+2023,2,Jeddah,AlphaTauri,TSU,16.0,16.0,11,Finished,0 days 00:01:07.494000
+2023,2,Jeddah,Haas F1 Team,HUL,11.0,10.0,12,Finished,0 days 00:01:10.588000
+2023,2,Jeddah,Alfa Romeo,ZHO,12.0,11.0,13,Finished,0 days 00:01:16.060000
+2023,2,Jeddah,AlphaTauri,DEV,18.0,18.0,14,Finished,0 days 00:01:17.478000
+2023,2,Jeddah,McLaren,PIA,9.0,8.0,15,Finished,0 days 00:01:25.021000
+2023,2,Jeddah,Williams,SAR,20.0,20.0,16,Finished,0 days 00:01:26.293000
+2023,2,Jeddah,McLaren,NOR,19.0,19.0,17,Finished,0 days 00:01:26.445000
+2023,2,Jeddah,Alfa Romeo,BOT,14.0,14.0,18,Lapped,0 days 00:00:29.584000
+2023,2,Jeddah,Williams,ALB,17.0,17.0,R,Retired,
+2023,2,Jeddah,Aston Martin,STR,6.0,5.0,R,Retired,
+2023,3,Melbourne,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 02:32:38.371000
+2023,3,Melbourne,Mercedes,HAM,3.0,3.0,2,Finished,0 days 00:00:00.179000
+2023,3,Melbourne,Aston Martin,ALO,4.0,4.0,3,Finished,0 days 00:00:00.769000
+2023,3,Melbourne,Aston Martin,STR,6.0,6.0,4,Finished,0 days 00:00:03.082000
+2023,3,Melbourne,Red Bull Racing,PER,20.0,20.0,5,Finished,0 days 00:00:03.320000
+2023,3,Melbourne,McLaren,NOR,13.0,13.0,6,Finished,0 days 00:00:03.701000
+2023,3,Melbourne,Haas F1 Team,HUL,10.0,10.0,7,Finished,0 days 00:00:04.939000
+2023,3,Melbourne,McLaren,PIA,16.0,16.0,8,Finished,0 days 00:00:05.382000
+2023,3,Melbourne,Alfa Romeo,ZHO,17.0,17.0,9,Finished,0 days 00:00:05.713000
+2023,3,Melbourne,AlphaTauri,TSU,12.0,12.0,10,Finished,0 days 00:00:06.052000
+2023,3,Melbourne,Alfa Romeo,BOT,19.0,19.0,11,Finished,0 days 00:00:06.513000
+2023,3,Melbourne,Ferrari,SAI,5.0,5.0,12,Finished,0 days 00:00:06.594000
+2023,3,Melbourne,Alpine,GAS,9.0,9.0,13,Retired,
+2023,3,Melbourne,Alpine,OCO,11.0,11.0,14,Retired,
+2023,3,Melbourne,AlphaTauri,DEV,15.0,15.0,15,Retired,
+2023,3,Melbourne,Williams,SAR,18.0,18.0,16,Retired,
+2023,3,Melbourne,Haas F1 Team,MAG,14.0,14.0,17,Retired,
+2023,3,Melbourne,Mercedes,RUS,2.0,2.0,R,Retired,
+2023,3,Melbourne,Williams,ALB,8.0,8.0,R,Retired,
+2023,3,Melbourne,Ferrari,LEC,7.0,7.0,R,Retired,
+2023,5,Miami,Red Bull Racing,VER,9.0,9.0,1,Finished,0 days 01:27:38.241000
+2023,5,Miami,Red Bull Racing,PER,1.0,1.0,2,Finished,0 days 00:00:05.384000
+2023,5,Miami,Aston Martin,ALO,2.0,2.0,3,Finished,0 days 00:00:26.305000
+2023,5,Miami,Mercedes,RUS,6.0,6.0,4,Finished,0 days 00:00:33.229000
+2023,5,Miami,Ferrari,SAI,3.0,3.0,5,Finished,0 days 00:00:42.511000
+2023,5,Miami,Mercedes,HAM,13.0,13.0,6,Finished,0 days 00:00:51.249000
+2023,5,Miami,Ferrari,LEC,7.0,7.0,7,Finished,0 days 00:00:52.988000
+2023,5,Miami,Alpine,GAS,5.0,5.0,8,Finished,0 days 00:00:55.670000
+2023,5,Miami,Alpine,OCO,8.0,8.0,9,Finished,0 days 00:00:58.123000
+2023,5,Miami,Haas F1 Team,MAG,4.0,4.0,10,Finished,0 days 00:01:02.945000
+2023,5,Miami,AlphaTauri,TSU,17.0,17.0,11,Finished,0 days 00:01:04.309000
+2023,5,Miami,Aston Martin,STR,18.0,18.0,12,Finished,0 days 00:01:04.754000
+2023,5,Miami,Alfa Romeo,BOT,10.0,10.0,13,Finished,0 days 00:01:11.637000
+2023,5,Miami,Williams,ALB,11.0,11.0,14,Finished,0 days 00:01:12.861000
+2023,5,Miami,Haas F1 Team,HUL,12.0,12.0,15,Finished,0 days 00:01:14.950000
+2023,5,Miami,Alfa Romeo,ZHO,14.0,14.0,16,Finished,0 days 00:01:18.440000
+2023,5,Miami,McLaren,NOR,16.0,16.0,17,Finished,0 days 00:01:27.717000
+2023,5,Miami,AlphaTauri,DEV,15.0,15.0,18,Finished,0 days 00:01:28.949000
+2023,5,Miami,McLaren,PIA,19.0,19.0,19,Lapped,0 days 00:00:20.510000
+2023,5,Miami,Williams,SAR,20.0,20.0,20,Lapped,0 days 00:00:34.388000
+2023,6,Monaco,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:48:51.980000
+2023,6,Monaco,Aston Martin,ALO,2.0,2.0,2,Finished,0 days 00:00:27.921000
+2023,6,Monaco,Alpine,OCO,4.0,3.0,3,Finished,0 days 00:00:36.990000
+2023,6,Monaco,Mercedes,HAM,6.0,5.0,4,Finished,0 days 00:00:39.062000
+2023,6,Monaco,Mercedes,RUS,8.0,8.0,5,Finished,0 days 00:00:56.284000
+2023,6,Monaco,Ferrari,LEC,3.0,6.0,6,Finished,0 days 00:01:01.890000
+2023,6,Monaco,Alpine,GAS,7.0,7.0,7,Finished,0 days 00:01:02.362000
+2023,6,Monaco,Ferrari,SAI,5.0,4.0,8,Finished,0 days 00:01:03.391000
+2023,6,Monaco,McLaren,NOR,10.0,10.0,9,Lapped,0 days 00:00:04.061000
+2023,6,Monaco,McLaren,PIA,11.0,11.0,10,Lapped,0 days 00:00:13.959000
+2023,6,Monaco,Alfa Romeo,BOT,15.0,15.0,11,Lapped,0 days 00:00:28.963000
+2023,6,Monaco,AlphaTauri,DEV,12.0,12.0,12,Lapped,0 days 00:00:57.317000
+2023,6,Monaco,Alfa Romeo,ZHO,19.0,19.0,13,Lapped,0 days 00:01:11.852000
+2023,6,Monaco,Williams,ALB,13.0,13.0,14,Lapped,0 days 00:01:19.210000
+2023,6,Monaco,AlphaTauri,TSU,9.0,9.0,15,Lapped,0 days 00:00:07.545000
+2023,6,Monaco,Red Bull Racing,PER,20.0,20.0,16,Lapped,0 days 00:00:49.024000
+2023,6,Monaco,Haas F1 Team,HUL,18.0,18.0,17,Lapped,0 days 00:00:58.506000
+2023,6,Monaco,Williams,SAR,16.0,16.0,18,Lapped,0 days 00:01:17.983000
+2023,6,Monaco,Haas F1 Team,MAG,17.0,17.0,19,Retired,
+2023,6,Monaco,Aston Martin,STR,14.0,14.0,R,Retired,
+2023,7,Barcelona,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:27:57.940000
+2023,7,Barcelona,Mercedes,HAM,5.0,4.0,2,Finished,0 days 00:00:24.090000
+2023,7,Barcelona,Mercedes,RUS,12.0,12.0,3,Finished,0 days 00:00:32.389000
+2023,7,Barcelona,Red Bull Racing,PER,11.0,11.0,4,Finished,0 days 00:00:35.812000
+2023,7,Barcelona,Ferrari,SAI,2.0,2.0,5,Finished,0 days 00:00:45.698000
+2023,7,Barcelona,Aston Martin,STR,6.0,5.0,6,Finished,0 days 00:01:03.320000
+2023,7,Barcelona,Aston Martin,ALO,9.0,8.0,7,Finished,0 days 00:01:04.127000
+2023,7,Barcelona,Alpine,OCO,7.0,6.0,8,Finished,0 days 00:01:09.242000
+2023,7,Barcelona,Alfa Romeo,ZHO,13.0,13.0,9,Finished,0 days 00:01:11.878000
+2023,7,Barcelona,Alpine,GAS,4.0,10.0,10,Finished,0 days 00:01:13.530000
+2023,7,Barcelona,Ferrari,LEC,19.0,19.0,11,Finished,0 days 00:01:14.419000
+2023,7,Barcelona,AlphaTauri,TSU,15.0,15.0,12,Finished,0 days 00:01:15.416000
+2023,7,Barcelona,McLaren,PIA,10.0,9.0,13,Lapped,0 days 00:00:04.275000
+2023,7,Barcelona,AlphaTauri,DEV,14.0,14.0,14,Lapped,0 days 00:00:05.327000
+2023,7,Barcelona,Haas F1 Team,HUL,8.0,7.0,15,Lapped,0 days 00:00:17.297000
+2023,7,Barcelona,Williams,ALB,18.0,18.0,16,Lapped,0 days 00:00:27.708000
+2023,7,Barcelona,McLaren,NOR,3.0,3.0,17,Lapped,0 days 00:00:30.390000
+2023,7,Barcelona,Haas F1 Team,MAG,17.0,17.0,18,Lapped,0 days 00:00:38.080000
+2023,7,Barcelona,Alfa Romeo,BOT,16.0,16.0,19,Lapped,0 days 00:00:49.943000
+2023,7,Barcelona,Williams,SAR,20.0,20.0,20,Lapped,0 days 00:00:51.677000
+2023,8,Montréal,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:33:58.348000
+2023,8,Montréal,Aston Martin,ALO,3.0,2.0,2,Finished,0 days 00:00:09.570000
+2023,8,Montréal,Mercedes,HAM,4.0,3.0,3,Finished,0 days 00:00:14.168000
+2023,8,Montréal,Ferrari,LEC,11.0,10.0,4,Finished,0 days 00:00:18.648000
+2023,8,Montréal,Ferrari,SAI,8.0,11.0,5,Finished,0 days 00:00:21.540000
+2023,8,Montréal,Red Bull Racing,PER,12.0,12.0,6,Finished,0 days 00:00:51.028000
+2023,8,Montréal,Williams,ALB,10.0,9.0,7,Finished,0 days 00:01:00.813000
+2023,8,Montréal,Alpine,OCO,6.0,6.0,8,Finished,0 days 00:01:01.692000
+2023,8,Montréal,Aston Martin,STR,13.0,16.0,9,Finished,0 days 00:01:04.402000
+2023,8,Montréal,Alfa Romeo,BOT,15.0,14.0,10,Finished,0 days 00:01:04.432000
+2023,8,Montréal,McLaren,PIA,9.0,8.0,11,Finished,0 days 00:01:05.101000
+2023,8,Montréal,Alpine,GAS,17.0,15.0,12,Finished,0 days 00:01:05.249000
+2023,8,Montréal,McLaren,NOR,7.0,7.0,13,Finished,0 days 00:01:08.363000
+2023,8,Montréal,AlphaTauri,TSU,16.0,19.0,14,Finished,0 days 00:01:13.423000
+2023,8,Montréal,Haas F1 Team,HUL,2.0,5.0,15,Lapped,0 days 00:00:16.943000
+2023,8,Montréal,Alfa Romeo,ZHO,20.0,20.0,16,Lapped,0 days 00:00:17.377000
+2023,8,Montréal,Haas F1 Team,MAG,14.0,13.0,17,Lapped,0 days 00:01:10.259000
+2023,8,Montréal,AlphaTauri,DEV,18.0,17.0,18,Lapped,0 days 00:01:14.967000
+2023,8,Montréal,Mercedes,RUS,5.0,4.0,R,Retired,
+2023,8,Montréal,Williams,SAR,19.0,18.0,R,Retired,
+2023,10,Silverstone,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:25:16.938000
+2023,10,Silverstone,McLaren,NOR,2.0,2.0,2,Finished,0 days 00:00:03.798000
+2023,10,Silverstone,Mercedes,HAM,7.0,7.0,3,Finished,0 days 00:00:06.783000
+2023,10,Silverstone,McLaren,PIA,3.0,3.0,4,Finished,0 days 00:00:07.776000
+2023,10,Silverstone,Mercedes,RUS,6.0,6.0,5,Finished,0 days 00:00:11.206000
+2023,10,Silverstone,Red Bull Racing,PER,15.0,15.0,6,Finished,0 days 00:00:12.882000
+2023,10,Silverstone,Aston Martin,ALO,9.0,9.0,7,Finished,0 days 00:00:17.193000
+2023,10,Silverstone,Williams,ALB,8.0,8.0,8,Finished,0 days 00:00:17.878000
+2023,10,Silverstone,Ferrari,LEC,4.0,4.0,9,Finished,0 days 00:00:18.689000
+2023,10,Silverstone,Ferrari,SAI,5.0,5.0,10,Finished,0 days 00:00:19.448000
+2023,10,Silverstone,Williams,SAR,14.0,14.0,11,Finished,0 days 00:00:23.632000
+2023,10,Silverstone,Alfa Romeo,BOT,15.0,20.0,12,Finished,0 days 00:00:25.830000
+2023,10,Silverstone,Haas F1 Team,HUL,11.0,11.0,13,Finished,0 days 00:00:26.663000
+2023,10,Silverstone,Aston Martin,STR,12.0,12.0,14,Finished,0 days 00:00:27.483000
+2023,10,Silverstone,Alfa Romeo,ZHO,17.0,17.0,15,Finished,0 days 00:00:29.820000
+2023,10,Silverstone,AlphaTauri,TSU,16.0,16.0,16,Finished,0 days 00:00:31.225000
+2023,10,Silverstone,AlphaTauri,DEV,18.0,18.0,17,Finished,0 days 00:00:33.128000
+2023,10,Silverstone,Alpine,GAS,10.0,10.0,18,Retired,
+2023,10,Silverstone,Haas F1 Team,MAG,19.0,19.0,R,Retired,
+2023,10,Silverstone,Alpine,OCO,13.0,13.0,R,Retired,
+2023,11,Budapest,Red Bull Racing,VER,2.0,2.0,1,Finished,0 days 01:38:08.634000
+2023,11,Budapest,McLaren,NOR,3.0,3.0,2,Finished,0 days 00:00:33.731000
+2023,11,Budapest,Red Bull Racing,PER,9.0,9.0,3,Finished,0 days 00:00:37.603000
+2023,11,Budapest,Mercedes,HAM,1.0,1.0,4,Finished,0 days 00:00:39.134000
+2023,11,Budapest,McLaren,PIA,4.0,4.0,5,Finished,0 days 00:01:02.572000
+2023,11,Budapest,Mercedes,RUS,18.0,18.0,6,Finished,0 days 00:01:05.825000
+2023,11,Budapest,Ferrari,LEC,6.0,6.0,7,Finished,0 days 00:01:10.317000
+2023,11,Budapest,Ferrari,SAI,11.0,11.0,8,Finished,0 days 00:01:11.073000
+2023,11,Budapest,Aston Martin,ALO,8.0,8.0,9,Finished,0 days 00:01:15.709000
+2023,11,Budapest,Aston Martin,STR,14.0,14.0,10,Lapped,0 days 00:00:14.615000
+2023,11,Budapest,Williams,ALB,16.0,16.0,11,Lapped,0 days 00:00:29.087000
+2023,11,Budapest,Alfa Romeo,BOT,7.0,7.0,12,Lapped,0 days 00:00:30.079000
+2023,11,Budapest,AlphaTauri,RIC,13.0,13.0,13,Lapped,0 days 00:00:36.257000
+2023,11,Budapest,Haas F1 Team,HUL,10.0,10.0,14,Lapped,0 days 00:00:51.298000
+2023,11,Budapest,AlphaTauri,TSU,17.0,17.0,15,Lapped,0 days 00:00:51.543000
+2023,11,Budapest,Alfa Romeo,ZHO,5.0,5.0,16,Lapped,0 days 00:01:00.491000
+2023,11,Budapest,Haas F1 Team,MAG,19.0,19.0,17,Lapped,0 days 00:01:22.351000
+2023,11,Budapest,Williams,SAR,20.0,20.0,18,Retired,
+2023,11,Budapest,Alpine,OCO,12.0,12.0,R,Retired,
+2023,11,Budapest,Alpine,GAS,15.0,15.0,R,Retired,
+2023,13,Zandvoort,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 02:24:04.411000
+2023,13,Zandvoort,Aston Martin,ALO,5.0,5.0,2,Finished,0 days 00:00:03.744000
+2023,13,Zandvoort,Alpine,GAS,12.0,12.0,3,Finished,0 days 00:00:07.058000
+2023,13,Zandvoort,Red Bull Racing,PER,7.0,7.0,4,Finished,0 days 00:00:10.068000
+2023,13,Zandvoort,Ferrari,SAI,6.0,6.0,5,Finished,0 days 00:00:12.541000
+2023,13,Zandvoort,Mercedes,HAM,13.0,13.0,6,Finished,0 days 00:00:13.209000
+2023,13,Zandvoort,McLaren,NOR,2.0,2.0,7,Finished,0 days 00:00:13.232000
+2023,13,Zandvoort,Williams,ALB,4.0,4.0,8,Finished,0 days 00:00:15.155000
+2023,13,Zandvoort,McLaren,PIA,8.0,8.0,9,Finished,0 days 00:00:16.580000
+2023,13,Zandvoort,Alpine,OCO,17.0,16.0,10,Finished,0 days 00:00:18.346000
+2023,13,Zandvoort,Aston Martin,STR,11.0,11.0,11,Finished,0 days 00:00:20.087000
+2023,13,Zandvoort,Haas F1 Team,HUL,15.0,14.0,12,Finished,0 days 00:00:20.840000
+2023,13,Zandvoort,AlphaTauri,LAW,20.0,19.0,13,Finished,0 days 00:00:26.147000
+2023,13,Zandvoort,Alfa Romeo,BOT,19.0,18.0,14,Finished,0 days 00:00:27.388000
+2023,13,Zandvoort,AlphaTauri,TSU,14.0,17.0,15,Finished,0 days 00:00:29.893000
+2023,13,Zandvoort,Haas F1 Team,MAG,18.0,0.0,16,Finished,0 days 00:00:31.410000
+2023,13,Zandvoort,Mercedes,RUS,3.0,3.0,17,Finished,0 days 00:00:55.754000
+2023,13,Zandvoort,Alfa Romeo,ZHO,16.0,15.0,R,Accident,
+2023,13,Zandvoort,Ferrari,LEC,9.0,9.0,R,Undertray,
+2023,13,Zandvoort,Williams,SAR,10.0,10.0,R,Accident,
+2023,14,Monza,Red Bull Racing,VER,2.0,2.0,1,Finished,0 days 01:13:41.143000
+2023,14,Monza,Red Bull Racing,PER,5.0,5.0,2,Finished,0 days 00:00:06.064000
+2023,14,Monza,Ferrari,SAI,1.0,1.0,3,Finished,0 days 00:00:11.193000
+2023,14,Monza,Ferrari,LEC,3.0,3.0,4,Finished,0 days 00:00:11.377000
+2023,14,Monza,Mercedes,RUS,4.0,4.0,5,Finished,0 days 00:00:23.028000
+2023,14,Monza,Mercedes,HAM,8.0,8.0,6,Finished,0 days 00:00:42.679000
+2023,14,Monza,Williams,ALB,6.0,6.0,7,Finished,0 days 00:00:45.106000
+2023,14,Monza,McLaren,NOR,9.0,9.0,8,Finished,0 days 00:00:45.449000
+2023,14,Monza,Aston Martin,ALO,10.0,10.0,9,Finished,0 days 00:00:46.294000
+2023,14,Monza,Alfa Romeo,BOT,14.0,14.0,10,Finished,0 days 00:01:04.056000
+2023,14,Monza,AlphaTauri,LAW,12.0,12.0,11,Finished,0 days 00:01:10.638000
+2023,14,Monza,McLaren,PIA,7.0,7.0,12,Finished,0 days 00:01:13.074000
+2023,14,Monza,Williams,SAR,15.0,15.0,13,Finished,0 days 00:01:18.557000
+2023,14,Monza,Alfa Romeo,ZHO,16.0,16.0,14,Finished,0 days 00:01:20.164000
+2023,14,Monza,Alpine,GAS,17.0,17.0,15,Finished,0 days 00:01:22.510000
+2023,14,Monza,Aston Martin,STR,20.0,20.0,16,Finished,0 days 00:01:27.266000
+2023,14,Monza,Haas F1 Team,HUL,13.0,13.0,17,Lapped,0 days 00:00:02.093000
+2023,14,Monza,Haas F1 Team,MAG,19.0,19.0,18,Lapped,0 days 00:00:12.624000
+2023,14,Monza,Alpine,OCO,18.0,18.0,R,Retired,
+2023,14,Monza,AlphaTauri,TSU,11.0,11.0,W,Did not start,
+2023,15,Marina Bay,Ferrari,SAI,1.0,1.0,1,Finished,0 days 01:46:37.418000
+2023,15,Marina Bay,McLaren,NOR,4.0,4.0,2,Finished,0 days 00:00:00.812000
+2023,15,Marina Bay,Mercedes,HAM,5.0,5.0,3,Finished,0 days 00:00:01.269000
+2023,15,Marina Bay,Ferrari,LEC,3.0,3.0,4,Finished,0 days 00:00:21.177000
+2023,15,Marina Bay,Red Bull Racing,VER,11.0,11.0,5,Finished,0 days 00:00:21.441000
+2023,15,Marina Bay,Alpine,GAS,12.0,12.0,6,Finished,0 days 00:00:38.441000
+2023,15,Marina Bay,McLaren,PIA,17.0,17.0,7,Finished,0 days 00:00:41.479000
+2023,15,Marina Bay,Red Bull Racing,PER,13.0,13.0,8,Finished,0 days 00:00:59.534000
+2023,15,Marina Bay,AlphaTauri,LAW,10.0,10.0,9,Finished,0 days 00:01:05.918000
+2023,15,Marina Bay,Haas F1 Team,MAG,6.0,6.0,10,Finished,0 days 00:01:12.116000
+2023,15,Marina Bay,Williams,ALB,14.0,14.0,11,Finished,0 days 00:01:13.417000
+2023,15,Marina Bay,Alfa Romeo,ZHO,19.0,19.0,12,Finished,0 days 00:01:23.649000
+2023,15,Marina Bay,Haas F1 Team,HUL,9.0,9.0,13,Finished,0 days 00:01:26.201000
+2023,15,Marina Bay,Williams,SAR,18.0,18.0,14,Finished,0 days 00:01:26.889000
+2023,15,Marina Bay,Aston Martin,ALO,7.0,7.0,15,Finished,0 days 00:01:27.603000
+2023,15,Marina Bay,Mercedes,RUS,2.0,2.0,16,Retired,
+2023,15,Marina Bay,Alfa Romeo,BOT,16.0,16.0,R,Retired,
+2023,15,Marina Bay,Alpine,OCO,8.0,8.0,R,Retired,
+2023,15,Marina Bay,AlphaTauri,TSU,15.0,15.0,R,Retired,
+2023,15,Marina Bay,Aston Martin,STR,20.0,,W,Withdrew,
+2023,16,Suzuka,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:30:58.421000
+2023,16,Suzuka,McLaren,NOR,3.0,3.0,2,Finished,0 days 00:00:19.387000
+2023,16,Suzuka,McLaren,PIA,2.0,2.0,3,Finished,0 days 00:00:36.494000
+2023,16,Suzuka,Ferrari,LEC,4.0,4.0,4,Finished,0 days 00:00:43.998000
+2023,16,Suzuka,Mercedes,HAM,7.0,7.0,5,Finished,0 days 00:00:49.376000
+2023,16,Suzuka,Ferrari,SAI,6.0,6.0,6,Finished,0 days 00:00:50.221000
+2023,16,Suzuka,Mercedes,RUS,8.0,8.0,7,Finished,0 days 00:00:57.659000
+2023,16,Suzuka,Aston Martin,ALO,10.0,10.0,8,Finished,0 days 00:01:14.725000
+2023,16,Suzuka,Alpine,OCO,14.0,14.0,9,Finished,0 days 00:01:19.678000
+2023,16,Suzuka,Alpine,GAS,12.0,12.0,10,Finished,0 days 00:01:23.155000
+2023,16,Suzuka,AlphaTauri,LAW,11.0,11.0,11,Lapped,0 days 00:00:03.089000
+2023,16,Suzuka,AlphaTauri,TSU,9.0,9.0,12,Lapped,0 days 00:00:03.974000
+2023,16,Suzuka,Alfa Romeo,ZHO,19.0,19.0,13,Lapped,0 days 00:00:06.340000
+2023,16,Suzuka,Haas F1 Team,HUL,18.0,18.0,14,Lapped,0 days 00:00:09.598000
+2023,16,Suzuka,Haas F1 Team,MAG,15.0,15.0,15,Lapped,0 days 00:00:29.570000
+2023,16,Suzuka,Williams,ALB,13.0,13.0,R,Retired,
+2023,16,Suzuka,Williams,SAR,20.0,20.0,R,Retired,
+2023,16,Suzuka,Aston Martin,STR,17.0,17.0,R,Retired,
+2023,16,Suzuka,Red Bull Racing,PER,5.0,5.0,R,Retired,
+2023,16,Suzuka,Alfa Romeo,BOT,16.0,16.0,R,Retired,
+2023,19,Mexico City,Red Bull Racing,VER,3.0,3.0,1,Finished,0 days 02:02:30.814000
+2023,19,Mexico City,Mercedes,HAM,6.0,6.0,2,Finished,0 days 00:00:13.875000
+2023,19,Mexico City,Ferrari,LEC,1.0,1.0,3,Finished,0 days 00:00:23.124000
+2023,19,Mexico City,Ferrari,SAI,2.0,2.0,4,Finished,0 days 00:00:27.154000
+2023,19,Mexico City,McLaren,NOR,19.0,17.0,5,Finished,0 days 00:00:33.266000
+2023,19,Mexico City,Mercedes,RUS,8.0,8.0,6,Finished,0 days 00:00:41.020000
+2023,19,Mexico City,AlphaTauri,RIC,4.0,4.0,7,Finished,0 days 00:00:41.570000
+2023,19,Mexico City,McLaren,PIA,7.0,7.0,8,Finished,0 days 00:00:43.104000
+2023,19,Mexico City,Williams,ALB,14.0,14.0,9,Finished,0 days 00:00:48.573000
+2023,19,Mexico City,Alpine,OCO,16.0,15.0,10,Finished,0 days 00:01:02.879000
+2023,19,Mexico City,Alpine,GAS,11.0,11.0,11,Finished,0 days 00:01:06.208000
+2023,19,Mexico City,AlphaTauri,TSU,15.0,18.0,12,Finished,0 days 00:01:18.982000
+2023,19,Mexico City,Haas F1 Team,HUL,12.0,12.0,13,Finished,0 days 00:01:20.309000
+2023,19,Mexico City,Alfa Romeo,ZHO,10.0,10.0,14,Finished,0 days 00:01:21.676000
+2023,19,Mexico City,Alfa Romeo,BOT,9.0,9.0,15,Finished,0 days 00:01:25.597000
+2023,19,Mexico City,Williams,SAR,20.0,19.0,16,Retired,
+2023,19,Mexico City,Aston Martin,STR,18.0,0.0,17,Collision damage,
+2023,19,Mexico City,Aston Martin,ALO,13.0,13.0,W,Withdrew,
+2023,19,Mexico City,Haas F1 Team,MAG,17.0,16.0,R,Accident,
+2023,19,Mexico City,Red Bull Racing,PER,5.0,5.0,R,Collision damage,
+2023,21,Las Vegas,Red Bull Racing,VER,3.0,2.0,1,Finished,0 days 01:29:08.289000
+2023,21,Las Vegas,Ferrari,LEC,1.0,1.0,2,Finished,0 days 00:00:02.070000
+2023,21,Las Vegas,Red Bull Racing,PER,12.0,11.0,3,Finished,0 days 00:00:02.241000
+2023,21,Las Vegas,Alpine,OCO,17.0,16.0,4,Finished,0 days 00:00:18.665000
+2023,21,Las Vegas,Aston Martin,STR,14.0,19.0,5,Finished,0 days 00:00:20.067000
+2023,21,Las Vegas,Ferrari,SAI,2.0,12.0,6,Finished,0 days 00:00:20.834000
+2023,21,Las Vegas,Mercedes,HAM,11.0,10.0,7,Finished,0 days 00:00:21.755000
+2023,21,Las Vegas,Mercedes,RUS,4.0,3.0,8,Finished,0 days 00:00:23.091000
+2023,21,Las Vegas,Aston Martin,ALO,10.0,9.0,9,Finished,0 days 00:00:25.964000
+2023,21,Las Vegas,McLaren,PIA,19.0,18.0,10,Finished,0 days 00:00:29.496000
+2023,21,Las Vegas,Alpine,GAS,5.0,4.0,11,Finished,0 days 00:00:34.270000
+2023,21,Las Vegas,Williams,ALB,6.0,5.0,12,Finished,0 days 00:00:43.398000
+2023,21,Las Vegas,Haas F1 Team,MAG,9.0,8.0,13,Finished,0 days 00:00:44.825000
+2023,21,Las Vegas,AlphaTauri,RIC,15.0,14.0,14,Finished,0 days 00:00:48.525000
+2023,21,Las Vegas,Alfa Romeo,ZHO,18.0,17.0,15,Finished,0 days 00:00:50.162000
+2023,21,Las Vegas,Williams,SAR,7.0,6.0,16,Finished,0 days 00:00:50.882000
+2023,21,Las Vegas,Alfa Romeo,BOT,8.0,7.0,17,Finished,0 days 00:01:25.350000
+2023,21,Las Vegas,AlphaTauri,TSU,20.0,20.0,18,Retired,
+2023,21,Las Vegas,Haas F1 Team,HUL,13.0,13.0,19,Retired,
+2023,21,Las Vegas,McLaren,NOR,16.0,15.0,R,Retired,
+2023,22,Yas Island,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:27:02.624000
+2023,22,Yas Island,Ferrari,LEC,2.0,2.0,2,Finished,0 days 00:00:17.993000
+2023,22,Yas Island,Mercedes,RUS,4.0,4.0,3,Finished,0 days 00:00:20.328000
+2023,22,Yas Island,Red Bull Racing,PER,9.0,9.0,4,Finished,0 days 00:00:21.453000
+2023,22,Yas Island,McLaren,NOR,5.0,5.0,5,Finished,0 days 00:00:24.284000
+2023,22,Yas Island,McLaren,PIA,3.0,3.0,6,Finished,0 days 00:00:31.487000
+2023,22,Yas Island,Aston Martin,ALO,7.0,7.0,7,Finished,0 days 00:00:39.512000
+2023,22,Yas Island,AlphaTauri,TSU,6.0,6.0,8,Finished,0 days 00:00:43.088000
+2023,22,Yas Island,Mercedes,HAM,11.0,11.0,9,Finished,0 days 00:00:44.424000
+2023,22,Yas Island,Aston Martin,STR,13.0,13.0,10,Finished,0 days 00:00:55.632000
+2023,22,Yas Island,AlphaTauri,RIC,15.0,15.0,11,Finished,0 days 00:00:56.229000
+2023,22,Yas Island,Alpine,OCO,12.0,12.0,12,Finished,0 days 00:01:06.373000
+2023,22,Yas Island,Alpine,GAS,10.0,10.0,13,Finished,0 days 00:01:10.360000
+2023,22,Yas Island,Williams,ALB,14.0,14.0,14,Finished,0 days 00:01:13.184000
+2023,22,Yas Island,Haas F1 Team,HUL,8.0,8.0,15,Finished,0 days 00:01:23.696000
+2023,22,Yas Island,Williams,SAR,20.0,20.0,16,Finished,0 days 00:01:27.791000
+2023,22,Yas Island,Alfa Romeo,ZHO,19.0,19.0,17,Finished,0 days 00:01:29.422000
+2023,22,Yas Island,Ferrari,SAI,16.0,16.0,18,Retired,
+2023,22,Yas Island,Alfa Romeo,BOT,18.0,18.0,19,Lapped,0 days 00:00:12.411000
+2023,22,Yas Island,Haas F1 Team,MAG,17.0,17.0,20,Lapped,0 days 00:00:14.876000

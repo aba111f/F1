@@ -1,0 +1,381 @@
+Year,Round,Circuit,TeamName,Abbreviation,QualiPos,GridPosition,ClassifiedPosition,Status,Time
+2021,1,Sakhir,Mercedes,HAM,2.0,2.0,1,Finished,0 days 01:32:03.897000
+2021,1,Sakhir,Red Bull Racing,VER,1.0,1.0,2,Finished,0 days 00:00:00.745000
+2021,1,Sakhir,Mercedes,BOT,3.0,3.0,3,Finished,0 days 00:00:37.383000
+2021,1,Sakhir,McLaren,NOR,7.0,7.0,4,Finished,0 days 00:00:46.466000
+2021,1,Sakhir,Red Bull Racing,PER,11.0,0.0,5,Finished,0 days 00:00:52.047000
+2021,1,Sakhir,Ferrari,LEC,4.0,4.0,6,Finished,0 days 00:00:59.090000
+2021,1,Sakhir,McLaren,RIC,6.0,6.0,7,Finished,0 days 00:01:06.004000
+2021,1,Sakhir,Ferrari,SAI,8.0,8.0,8,Finished,0 days 00:01:07.100000
+2021,1,Sakhir,AlphaTauri,TSU,13.0,13.0,9,Finished,0 days 00:01:25.692000
+2021,1,Sakhir,Aston Martin,STR,10.0,10.0,10,Finished,0 days 00:01:26.713000
+2021,1,Sakhir,Alfa Romeo Racing,RAI,14.0,14.0,11,Finished,0 days 00:01:28.864000
+2021,1,Sakhir,Alfa Romeo Racing,GIO,12.0,12.0,12,+1 Lap,
+2021,1,Sakhir,Alpine,OCO,16.0,16.0,13,+1 Lap,
+2021,1,Sakhir,Williams,RUS,15.0,15.0,14,+1 Lap,
+2021,1,Sakhir,Aston Martin,VET,18.0,20.0,15,+1 Lap,
+2021,1,Sakhir,Haas F1 Team,MSC,19.0,18.0,16,+1 Lap,
+2021,1,Sakhir,AlphaTauri,GAS,5.0,5.0,17,Retired,
+2021,1,Sakhir,Williams,LAT,17.0,17.0,18,Retired,
+2021,1,Sakhir,Alpine,ALO,9.0,9.0,R,Brakes,
+2021,1,Sakhir,Haas F1 Team,MAZ,20.0,19.0,R,Accident,
+2021,2,Imola,Red Bull Racing,VER,3.0,3.0,1,Finished,0 days 02:02:34.598000
+2021,2,Imola,Mercedes,HAM,1.0,1.0,2,Finished,0 days 00:00:22
+2021,2,Imola,McLaren,NOR,7.0,7.0,3,Finished,0 days 00:00:23.702000
+2021,2,Imola,Ferrari,LEC,4.0,4.0,4,Finished,0 days 00:00:25.579000
+2021,2,Imola,Ferrari,SAI,11.0,11.0,5,Finished,0 days 00:00:27.036000
+2021,2,Imola,McLaren,RIC,6.0,6.0,6,Finished,0 days 00:00:51.220000
+2021,2,Imola,AlphaTauri,GAS,5.0,5.0,7,Finished,0 days 00:00:52.818000
+2021,2,Imola,Aston Martin,STR,10.0,10.0,8,Finished,0 days 00:00:56.909000
+2021,2,Imola,Alpine,OCO,9.0,9.0,9,Finished,0 days 00:01:05.704000
+2021,2,Imola,Alpine,ALO,15.0,15.0,10,Finished,0 days 00:01:06.561000
+2021,2,Imola,Red Bull Racing,PER,2.0,2.0,11,Finished,0 days 00:01:07.151000
+2021,2,Imola,AlphaTauri,TSU,20.0,20.0,12,Finished,0 days 00:01:13.184000
+2021,2,Imola,Alfa Romeo Racing,RAI,16.0,16.0,13,Finished,0 days 00:01:34.773000
+2021,2,Imola,Alfa Romeo Racing,GIO,17.0,17.0,14,+1 Lap,
+2021,2,Imola,Aston Martin,VET,13.0,0.0,15,Gearbox,
+2021,2,Imola,Haas F1 Team,MSC,18.0,18.0,16,+2 Laps,
+2021,2,Imola,Haas F1 Team,MAZ,19.0,19.0,17,+2 Laps,
+2021,2,Imola,Mercedes,BOT,8.0,8.0,R,Collision,
+2021,2,Imola,Williams,RUS,12.0,12.0,R,Collision,
+2021,2,Imola,Williams,LAT,14.0,14.0,R,Collision,
+2021,3,Portimão,Mercedes,HAM,2.0,2.0,1,Finished,0 days 01:34:31.421000
+2021,3,Portimão,Red Bull Racing,VER,3.0,3.0,2,Finished,0 days 00:00:29.148000
+2021,3,Portimão,Mercedes,BOT,1.0,1.0,3,Finished,0 days 00:00:33.530000
+2021,3,Portimão,Red Bull Racing,PER,4.0,4.0,4,Finished,0 days 00:00:39.735000
+2021,3,Portimão,McLaren,NOR,7.0,7.0,5,Finished,0 days 00:00:51.369000
+2021,3,Portimão,Ferrari,LEC,8.0,8.0,6,Finished,0 days 00:00:55.781000
+2021,3,Portimão,Alpine,OCO,6.0,6.0,7,Finished,0 days 00:01:03.749000
+2021,3,Portimão,Alpine,ALO,13.0,13.0,8,Finished,0 days 00:00:01.808000
+2021,3,Portimão,McLaren,RIC,16.0,16.0,9,Finished,0 days 00:01:15.369000
+2021,3,Portimão,AlphaTauri,GAS,9.0,9.0,10,Finished,0 days 00:01:16.463000
+2021,3,Portimão,Ferrari,SAI,5.0,5.0,11,Finished,0 days 00:01:18.955000
+2021,3,Portimão,Alfa Romeo Racing,GIO,12.0,12.0,12,+1 Lap,
+2021,3,Portimão,Aston Martin,VET,10.0,10.0,13,+1 Lap,
+2021,3,Portimão,Aston Martin,STR,17.0,17.0,14,+1 Lap,
+2021,3,Portimão,AlphaTauri,TSU,14.0,14.0,15,+1 Lap,
+2021,3,Portimão,Williams,RUS,11.0,11.0,16,+1 Lap,
+2021,3,Portimão,Haas F1 Team,MSC,19.0,19.0,17,+2 Laps,
+2021,3,Portimão,Williams,LAT,18.0,18.0,18,+2 Laps,
+2021,3,Portimão,Haas F1 Team,MAZ,20.0,20.0,19,+2 Laps,
+2021,3,Portimão,Alfa Romeo Racing,RAI,15.0,15.0,R,Collision damage,
+2021,4,Barcelona,Mercedes,HAM,1.0,1.0,1,Finished,0 days 01:33:07.680000
+2021,4,Barcelona,Red Bull Racing,VER,2.0,2.0,2,Finished,0 days 00:00:15.841000
+2021,4,Barcelona,Mercedes,BOT,3.0,3.0,3,Finished,0 days 00:00:26.610000
+2021,4,Barcelona,Ferrari,LEC,4.0,4.0,4,Finished,0 days 00:00:54.616000
+2021,4,Barcelona,Red Bull Racing,PER,8.0,8.0,5,Finished,0 days 00:01:03.671000
+2021,4,Barcelona,McLaren,RIC,7.0,7.0,6,Finished,0 days 00:01:13.768000
+2021,4,Barcelona,Ferrari,SAI,6.0,6.0,7,Finished,0 days 00:01:14.670000
+2021,4,Barcelona,McLaren,NOR,9.0,9.0,8,+1 Lap,
+2021,4,Barcelona,Alpine,OCO,5.0,5.0,9,+1 Lap,
+2021,4,Barcelona,AlphaTauri,GAS,12.0,12.0,10,+1 Lap,
+2021,4,Barcelona,Aston Martin,STR,11.0,11.0,11,+1 Lap,
+2021,4,Barcelona,Alfa Romeo Racing,RAI,17.0,17.0,12,+1 Lap,
+2021,4,Barcelona,Aston Martin,VET,13.0,13.0,13,+1 Lap,
+2021,4,Barcelona,Williams,RUS,15.0,15.0,14,+1 Lap,
+2021,4,Barcelona,Alfa Romeo Racing,GIO,14.0,14.0,15,+1 Lap,
+2021,4,Barcelona,Williams,LAT,19.0,19.0,16,+1 Lap,
+2021,4,Barcelona,Alpine,ALO,10.0,10.0,17,+1 Lap,
+2021,4,Barcelona,Haas F1 Team,MSC,18.0,18.0,18,+2 Laps,
+2021,4,Barcelona,Haas F1 Team,MAZ,20.0,20.0,19,+2 Laps,
+2021,4,Barcelona,AlphaTauri,TSU,16.0,16.0,R,Electrical,
+2021,5,Monte Carlo,Red Bull Racing,VER,2.0,2.0,1,Finished,0 days 01:38:56.820000
+2021,5,Monte Carlo,Ferrari,SAI,4.0,4.0,2,Finished,0 days 00:00:08.968000
+2021,5,Monte Carlo,McLaren,NOR,5.0,5.0,3,Finished,0 days 00:00:19.427000
+2021,5,Monte Carlo,Red Bull Racing,PER,9.0,9.0,4,Finished,0 days 00:00:20.490000
+2021,5,Monte Carlo,Aston Martin,VET,8.0,8.0,5,Finished,0 days 00:00:52.591000
+2021,5,Monte Carlo,AlphaTauri,GAS,6.0,6.0,6,Finished,0 days 00:00:53.896000
+2021,5,Monte Carlo,Mercedes,HAM,7.0,7.0,7,Finished,0 days 00:01:08.231000
+2021,5,Monte Carlo,Aston Martin,STR,13.0,13.0,8,+1 Lap,
+2021,5,Monte Carlo,Alpine,OCO,11.0,11.0,9,+1 Lap,
+2021,5,Monte Carlo,Alfa Romeo Racing,GIO,10.0,10.0,10,+1 Lap,
+2021,5,Monte Carlo,Alfa Romeo Racing,RAI,14.0,14.0,11,+1 Lap,
+2021,5,Monte Carlo,McLaren,RIC,12.0,12.0,12,+1 Lap,
+2021,5,Monte Carlo,Alpine,ALO,17.0,17.0,13,+1 Lap,
+2021,5,Monte Carlo,Williams,RUS,15.0,15.0,14,+1 Lap,
+2021,5,Monte Carlo,Williams,LAT,18.0,18.0,15,+1 Lap,
+2021,5,Monte Carlo,AlphaTauri,TSU,16.0,16.0,16,+1 Lap,
+2021,5,Monte Carlo,Haas F1 Team,MAZ,19.0,19.0,17,+3 Laps,
+2021,5,Monte Carlo,Haas F1 Team,MSC,,20.0,18,+3 Laps,
+2021,5,Monte Carlo,Mercedes,BOT,3.0,3.0,R,Wheel nut,
+2021,5,Monte Carlo,Ferrari,LEC,1.0,1.0,W,Driveshaft,
+2021,6,Baku,Red Bull Racing,PER,7.0,6.0,1,Finished,0 days 02:13:36.410000
+2021,6,Baku,Aston Martin,VET,11.0,11.0,2,Finished,0 days 00:00:01.385000
+2021,6,Baku,AlphaTauri,GAS,4.0,4.0,3,Finished,0 days 00:00:02.762000
+2021,6,Baku,Ferrari,LEC,1.0,1.0,4,Finished,0 days 00:00:03.828000
+2021,6,Baku,McLaren,NOR,6.0,9.0,5,Finished,0 days 00:00:04.754000
+2021,6,Baku,Alpine,ALO,9.0,8.0,6,Finished,0 days 00:00:06.382000
+2021,6,Baku,AlphaTauri,TSU,8.0,7.0,7,Finished,0 days 00:00:06.624000
+2021,6,Baku,Ferrari,SAI,5.0,5.0,8,Finished,0 days 00:00:07.709000
+2021,6,Baku,McLaren,RIC,13.0,13.0,9,Finished,0 days 00:00:08.874000
+2021,6,Baku,Alfa Romeo Racing,RAI,14.0,14.0,10,Finished,0 days 00:00:09.576000
+2021,6,Baku,Alfa Romeo Racing,GIO,20.0,20.0,11,Finished,0 days 00:00:10.254000
+2021,6,Baku,Mercedes,BOT,10.0,10.0,12,Finished,0 days 00:00:11.264000
+2021,6,Baku,Haas F1 Team,MSC,17.0,17.0,13,Finished,0 days 00:00:14.241000
+2021,6,Baku,Haas F1 Team,MAZ,18.0,18.0,14,Finished,0 days 00:00:14.315000
+2021,6,Baku,Mercedes,HAM,2.0,2.0,15,Finished,0 days 00:00:17.668000
+2021,6,Baku,Williams,LAT,16.0,16.0,16,Finished,0 days 00:00:43.379000
+2021,6,Baku,Williams,RUS,15.0,15.0,R,Gearbox,
+2021,6,Baku,Red Bull Racing,VER,3.0,3.0,R,Accident,
+2021,6,Baku,Aston Martin,STR,19.0,19.0,R,Accident,
+2021,6,Baku,Alpine,OCO,12.0,12.0,R,Turbo,
+2021,7,Le Castellet,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:27:25.770000
+2021,7,Le Castellet,Mercedes,HAM,2.0,2.0,2,Finished,0 days 00:00:02.904000
+2021,7,Le Castellet,Red Bull Racing,PER,4.0,4.0,3,Finished,0 days 00:00:08.811000
+2021,7,Le Castellet,Mercedes,BOT,3.0,3.0,4,Finished,0 days 00:00:14.618000
+2021,7,Le Castellet,McLaren,NOR,8.0,8.0,5,Finished,0 days 00:01:04.032000
+2021,7,Le Castellet,McLaren,RIC,10.0,10.0,6,Finished,0 days 00:01:15.857000
+2021,7,Le Castellet,AlphaTauri,GAS,6.0,6.0,7,Finished,0 days 00:01:16.596000
+2021,7,Le Castellet,Alpine,ALO,9.0,9.0,8,Finished,0 days 00:01:17.695000
+2021,7,Le Castellet,Aston Martin,VET,12.0,12.0,9,Finished,0 days 00:01:19.666000
+2021,7,Le Castellet,Aston Martin,STR,19.0,19.0,10,Finished,0 days 00:01:31.946000
+2021,7,Le Castellet,Ferrari,SAI,5.0,5.0,11,Finished,0 days 00:01:39.337000
+2021,7,Le Castellet,Williams,RUS,14.0,14.0,12,+1 Lap,
+2021,7,Le Castellet,AlphaTauri,TSU,20.0,0.0,13,+1 Lap,
+2021,7,Le Castellet,Alpine,OCO,11.0,11.0,14,+1 Lap,
+2021,7,Le Castellet,Alfa Romeo Racing,GIO,13.0,13.0,15,+1 Lap,
+2021,7,Le Castellet,Ferrari,LEC,7.0,7.0,16,+1 Lap,
+2021,7,Le Castellet,Alfa Romeo Racing,RAI,17.0,17.0,17,+1 Lap,
+2021,7,Le Castellet,Williams,LAT,16.0,16.0,18,+1 Lap,
+2021,7,Le Castellet,Haas F1 Team,MSC,15.0,15.0,19,+1 Lap,
+2021,7,Le Castellet,Haas F1 Team,MAZ,18.0,18.0,20,+1 Lap,
+2021,8,Spielberg,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:22:18.925000
+2021,8,Spielberg,Mercedes,HAM,3.0,2.0,2,Finished,0 days 00:00:35.743000
+2021,8,Spielberg,Mercedes,BOT,2.0,5.0,3,Finished,0 days 00:00:46.907000
+2021,8,Spielberg,Red Bull Racing,PER,5.0,4.0,4,Finished,0 days 00:00:47.434000
+2021,8,Spielberg,McLaren,NOR,4.0,3.0,5,+1 Lap,
+2021,8,Spielberg,Ferrari,SAI,12.0,12.0,6,+1 Lap,
+2021,8,Spielberg,Ferrari,LEC,7.0,7.0,7,+1 Lap,
+2021,8,Spielberg,Aston Martin,STR,10.0,9.0,8,+1 Lap,
+2021,8,Spielberg,Alpine,ALO,9.0,8.0,9,+1 Lap,
+2021,8,Spielberg,AlphaTauri,TSU,8.0,11.0,10,+1 Lap,
+2021,8,Spielberg,Alfa Romeo Racing,RAI,18.0,18.0,11,+1 Lap,
+2021,8,Spielberg,Aston Martin,VET,14.0,14.0,12,+1 Lap,
+2021,8,Spielberg,McLaren,RIC,13.0,13.0,13,+1 Lap,
+2021,8,Spielberg,Alpine,OCO,17.0,17.0,14,+1 Lap,
+2021,8,Spielberg,Alfa Romeo Racing,GIO,15.0,15.0,15,+1 Lap,
+2021,8,Spielberg,Haas F1 Team,MSC,19.0,19.0,16,+2 Laps,
+2021,8,Spielberg,Williams,LAT,16.0,16.0,17,+3 Laps,
+2021,8,Spielberg,Haas F1 Team,MAZ,20.0,20.0,18,+3 Laps,
+2021,8,Spielberg,Williams,RUS,11.0,10.0,R,Engine,
+2021,8,Spielberg,AlphaTauri,GAS,6.0,6.0,R,Collision,
+2021,9,Spielberg,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:23:54.543000
+2021,9,Spielberg,Mercedes,BOT,5.0,5.0,2,Finished,0 days 00:00:17.973000
+2021,9,Spielberg,McLaren,NOR,2.0,2.0,3,Finished,0 days 00:00:20.019000
+2021,9,Spielberg,Mercedes,HAM,4.0,4.0,4,Finished,0 days 00:00:46.452000
+2021,9,Spielberg,Ferrari,SAI,11.0,10.0,5,Finished,0 days 00:00:57.144000
+2021,9,Spielberg,Red Bull Racing,PER,3.0,3.0,6,Finished,0 days 00:00:57.915000
+2021,9,Spielberg,McLaren,RIC,13.0,13.0,7,Finished,0 days 00:01:00.395000
+2021,9,Spielberg,Ferrari,LEC,12.0,12.0,8,Finished,0 days 00:01:01.195000
+2021,9,Spielberg,AlphaTauri,GAS,6.0,6.0,9,Finished,0 days 00:01:01.844000
+2021,9,Spielberg,Alpine,ALO,14.0,14.0,10,+1 Lap,
+2021,9,Spielberg,Williams,RUS,9.0,8.0,11,+1 Lap,
+2021,9,Spielberg,AlphaTauri,TSU,7.0,7.0,12,+1 Lap,
+2021,9,Spielberg,Aston Martin,STR,10.0,9.0,13,+1 Lap,
+2021,9,Spielberg,Alfa Romeo Racing,GIO,15.0,15.0,14,+1 Lap,
+2021,9,Spielberg,Alfa Romeo Racing,RAI,16.0,16.0,15,+1 Lap,
+2021,9,Spielberg,Williams,LAT,18.0,18.0,16,+1 Lap,
+2021,9,Spielberg,Aston Martin,VET,8.0,11.0,17,Collision,
+2021,9,Spielberg,Haas F1 Team,MSC,19.0,19.0,18,+2 Laps,
+2021,9,Spielberg,Haas F1 Team,MAZ,20.0,20.0,19,+2 Laps,
+2021,9,Spielberg,Alpine,OCO,17.0,17.0,R,Collision,
+2021,11,Budapest,Alpine,OCO,8.0,8.0,1,Finished,0 days 02:04:43.199000
+2021,11,Budapest,Mercedes,HAM,1.0,1.0,2,Finished,0 days 00:00:02.736000
+2021,11,Budapest,Ferrari,SAI,15.0,15.0,3,Finished,0 days 00:00:15.018000
+2021,11,Budapest,Alpine,ALO,9.0,9.0,4,Finished,0 days 00:00:15.651000
+2021,11,Budapest,AlphaTauri,GAS,5.0,5.0,5,Finished,0 days 00:01:03.614000
+2021,11,Budapest,AlphaTauri,TSU,16.0,16.0,6,Finished,0 days 00:01:15.803000
+2021,11,Budapest,Williams,LAT,18.0,18.0,7,Finished,0 days 00:01:17.910000
+2021,11,Budapest,Williams,RUS,17.0,17.0,8,Finished,0 days 00:01:19.094000
+2021,11,Budapest,Red Bull Racing,VER,3.0,3.0,9,Finished,0 days 00:01:20.244000
+2021,11,Budapest,Alfa Romeo Racing,RAI,13.0,13.0,10,+1 Lap,
+2021,11,Budapest,McLaren,RIC,11.0,11.0,11,+1 Lap,
+2021,11,Budapest,Haas F1 Team,MSC,20.0,20.0,12,+1 Lap,
+2021,11,Budapest,Alfa Romeo Racing,GIO,14.0,0.0,13,+1 Lap,
+2021,11,Budapest,Haas F1 Team,MAZ,19.0,19.0,R,Collision,
+2021,11,Budapest,McLaren,NOR,6.0,6.0,R,Collision,
+2021,11,Budapest,Mercedes,BOT,2.0,2.0,R,Collision,
+2021,11,Budapest,Red Bull Racing,PER,4.0,4.0,R,Collision,
+2021,11,Budapest,Ferrari,LEC,7.0,7.0,R,Collision,
+2021,11,Budapest,Aston Martin,STR,12.0,12.0,R,Collision,
+2021,11,Budapest,Aston Martin,VET,10.0,10.0,D,Disqualified,
+2021,12,Spa-Francorchamps,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 00:03:27.071000
+2021,12,Spa-Francorchamps,Williams,RUS,2.0,2.0,2,Finished,0 days 00:00:01.995000
+2021,12,Spa-Francorchamps,Mercedes,HAM,3.0,3.0,3,Finished,0 days 00:00:02.601000
+2021,12,Spa-Francorchamps,McLaren,RIC,4.0,4.0,4,Finished,0 days 00:00:04.496000
+2021,12,Spa-Francorchamps,Aston Martin,VET,5.0,5.0,5,Finished,0 days 00:00:07.479000
+2021,12,Spa-Francorchamps,AlphaTauri,GAS,6.0,6.0,6,Finished,0 days 00:00:10.177000
+2021,12,Spa-Francorchamps,Alpine,OCO,9.0,8.0,7,Finished,0 days 00:00:11.579000
+2021,12,Spa-Francorchamps,Ferrari,LEC,11.0,9.0,8,Finished,0 days 00:00:12.608000
+2021,12,Spa-Francorchamps,Williams,LAT,12.0,10.0,9,Finished,0 days 00:00:15.485000
+2021,12,Spa-Francorchamps,Ferrari,SAI,13.0,11.0,10,Finished,0 days 00:00:16.166000
+2021,12,Spa-Francorchamps,Alpine,ALO,14.0,12.0,11,Finished,0 days 00:00:20.590000
+2021,12,Spa-Francorchamps,Mercedes,BOT,8.0,13.0,12,Finished,0 days 00:00:22.414000
+2021,12,Spa-Francorchamps,Alfa Romeo Racing,GIO,16.0,14.0,13,Finished,0 days 00:00:24.163000
+2021,12,Spa-Francorchamps,McLaren,NOR,10.0,15.0,14,Finished,0 days 00:00:27.110000
+2021,12,Spa-Francorchamps,AlphaTauri,TSU,17.0,16.0,15,Finished,0 days 00:00:28.329000
+2021,12,Spa-Francorchamps,Haas F1 Team,MSC,18.0,17.0,16,Finished,0 days 00:00:29.507000
+2021,12,Spa-Francorchamps,Haas F1 Team,MAZ,20.0,18.0,17,Finished,0 days 00:00:31.993000
+2021,12,Spa-Francorchamps,Alfa Romeo Racing,RAI,19.0,0.0,18,Finished,0 days 00:00:36.054000
+2021,12,Spa-Francorchamps,Red Bull Racing,PER,7.0,0.0,19,Finished,0 days 00:00:38.205000
+2021,12,Spa-Francorchamps,Aston Martin,STR,15.0,19.0,20,Finished,0 days 00:00:44.108000
+2021,13,Zandvoort,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:30:05.395000
+2021,13,Zandvoort,Mercedes,HAM,2.0,2.0,2,Finished,0 days 00:00:20.932000
+2021,13,Zandvoort,Mercedes,BOT,3.0,3.0,3,Finished,0 days 00:00:56.460000
+2021,13,Zandvoort,AlphaTauri,GAS,4.0,4.0,4,+1 Lap,
+2021,13,Zandvoort,Ferrari,LEC,5.0,5.0,5,+1 Lap,
+2021,13,Zandvoort,Alpine,ALO,9.0,9.0,6,+1 Lap,
+2021,13,Zandvoort,Ferrari,SAI,6.0,6.0,7,+1 Lap,
+2021,13,Zandvoort,Red Bull Racing,PER,16.0,0.0,8,+1 Lap,
+2021,13,Zandvoort,Alpine,OCO,8.0,8.0,9,+1 Lap,
+2021,13,Zandvoort,McLaren,NOR,13.0,13.0,10,+1 Lap,
+2021,13,Zandvoort,McLaren,RIC,10.0,10.0,11,+1 Lap,
+2021,13,Zandvoort,Aston Martin,STR,12.0,12.0,12,+2 Laps,
+2021,13,Zandvoort,Aston Martin,VET,17.0,15.0,13,+2 Laps,
+2021,13,Zandvoort,Alfa Romeo Racing,GIO,7.0,7.0,14,+2 Laps,
+2021,13,Zandvoort,Alfa Romeo Racing,KUB,18.0,16.0,15,+2 Laps,
+2021,13,Zandvoort,Williams,LAT,14.0,0.0,16,+2 Laps,
+2021,13,Zandvoort,Williams,RUS,11.0,11.0,17,Gearbox,
+2021,13,Zandvoort,Haas F1 Team,MSC,19.0,17.0,18,+3 Laps,
+2021,13,Zandvoort,AlphaTauri,TSU,15.0,14.0,R,Power Unit,
+2021,13,Zandvoort,Haas F1 Team,MAZ,20.0,18.0,R,Hydraulics,
+2021,15,Sochi,Mercedes,HAM,4.0,4.0,1,Finished,0 days 01:30:41.001000
+2021,15,Sochi,Red Bull Racing,VER,20.0,20.0,2,Finished,0 days 00:00:53.271000
+2021,15,Sochi,Ferrari,SAI,2.0,2.0,3,Finished,0 days 00:01:02.475000
+2021,15,Sochi,McLaren,RIC,5.0,5.0,4,Finished,0 days 00:01:05.607000
+2021,15,Sochi,Mercedes,BOT,7.0,16.0,5,Finished,0 days 00:01:07.533000
+2021,15,Sochi,Alpine,ALO,6.0,6.0,6,Finished,0 days 00:01:21.321000
+2021,15,Sochi,McLaren,NOR,1.0,1.0,7,Finished,0 days 00:01:27.224000
+2021,15,Sochi,Alfa Romeo Racing,RAI,16.0,13.0,8,Finished,0 days 00:01:28.955000
+2021,15,Sochi,Red Bull Racing,PER,9.0,8.0,9,Finished,0 days 00:01:30.076000
+2021,15,Sochi,Williams,RUS,3.0,3.0,10,Finished,0 days 00:01:40.551000
+2021,15,Sochi,Aston Martin,STR,8.0,7.0,11,Finished,0 days 00:01:46.198000
+2021,15,Sochi,Aston Martin,VET,11.0,10.0,12,+1 Lap,
+2021,15,Sochi,AlphaTauri,GAS,12.0,11.0,13,+1 Lap,
+2021,15,Sochi,Alpine,OCO,10.0,9.0,14,+1 Lap,
+2021,15,Sochi,Ferrari,LEC,15.0,19.0,15,+1 Lap,
+2021,15,Sochi,Alfa Romeo Racing,GIO,18.0,17.0,16,+1 Lap,
+2021,15,Sochi,AlphaTauri,TSU,13.0,12.0,17,+1 Lap,
+2021,15,Sochi,Haas F1 Team,MAZ,19.0,15.0,18,+2 Laps,
+2021,15,Sochi,Williams,LAT,14.0,18.0,19,Accident,
+2021,15,Sochi,Haas F1 Team,MSC,17.0,14.0,R,Oil leak,
+2021,16,Istanbul,Mercedes,BOT,2.0,1.0,1,Finished,0 days 01:31:04.103000
+2021,16,Istanbul,Red Bull Racing,VER,3.0,2.0,2,Finished,0 days 00:00:14.584000
+2021,16,Istanbul,Red Bull Racing,PER,7.0,6.0,3,Finished,0 days 00:00:33.471000
+2021,16,Istanbul,Ferrari,LEC,4.0,3.0,4,Finished,0 days 00:00:37.814000
+2021,16,Istanbul,Mercedes,HAM,1.0,11.0,5,Finished,0 days 00:00:41.812000
+2021,16,Istanbul,AlphaTauri,GAS,5.0,4.0,6,Finished,0 days 00:00:44.292000
+2021,16,Istanbul,McLaren,NOR,8.0,7.0,7,Finished,0 days 00:00:47.213000
+2021,16,Istanbul,Ferrari,SAI,15.0,19.0,8,Finished,0 days 00:00:51.526000
+2021,16,Istanbul,Aston Martin,STR,9.0,8.0,9,Finished,0 days 00:01:22.018000
+2021,16,Istanbul,Alpine,OCO,12.0,12.0,10,+1 Lap,
+2021,16,Istanbul,Alfa Romeo Racing,GIO,18.0,16.0,11,+1 Lap,
+2021,16,Istanbul,Alfa Romeo Racing,RAI,19.0,17.0,12,+1 Lap,
+2021,16,Istanbul,McLaren,RIC,16.0,20.0,13,+1 Lap,
+2021,16,Istanbul,AlphaTauri,TSU,10.0,9.0,14,+1 Lap,
+2021,16,Istanbul,Williams,RUS,13.0,13.0,15,+1 Lap,
+2021,16,Istanbul,Alpine,ALO,6.0,5.0,16,+1 Lap,
+2021,16,Istanbul,Williams,LAT,17.0,15.0,17,+1 Lap,
+2021,16,Istanbul,Aston Martin,VET,11.0,10.0,18,+1 Lap,
+2021,16,Istanbul,Haas F1 Team,MSC,14.0,14.0,19,+2 Laps,
+2021,16,Istanbul,Haas F1 Team,MAZ,20.0,18.0,20,+2 Laps,
+2021,17,Austin,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:34:36.552000
+2021,17,Austin,Mercedes,HAM,2.0,2.0,2,Finished,0 days 00:00:01.333000
+2021,17,Austin,Red Bull Racing,PER,3.0,3.0,3,Finished,0 days 00:00:42.223000
+2021,17,Austin,Ferrari,LEC,5.0,4.0,4,Finished,0 days 00:00:52.246000
+2021,17,Austin,McLaren,RIC,7.0,6.0,5,Finished,0 days 00:01:16.854000
+2021,17,Austin,Mercedes,BOT,4.0,9.0,6,Finished,0 days 00:01:20.128000
+2021,17,Austin,Ferrari,SAI,6.0,5.0,7,Finished,0 days 00:01:23.545000
+2021,17,Austin,McLaren,NOR,8.0,7.0,8,Finished,0 days 00:01:24.395000
+2021,17,Austin,AlphaTauri,TSU,10.0,10.0,9,+1 Lap,
+2021,17,Austin,Aston Martin,VET,12.0,18.0,10,+1 Lap,
+2021,17,Austin,Alfa Romeo Racing,GIO,13.0,12.0,11,+1 Lap,
+2021,17,Austin,Aston Martin,STR,16.0,13.0,12,+1 Lap,
+2021,17,Austin,Alfa Romeo Racing,RAI,18.0,15.0,13,+1 Lap,
+2021,17,Austin,Williams,RUS,15.0,20.0,14,+1 Lap,
+2021,17,Austin,Williams,LAT,17.0,14.0,15,+1 Lap,
+2021,17,Austin,Haas F1 Team,MSC,19.0,16.0,16,+2 Laps,
+2021,17,Austin,Haas F1 Team,MAZ,20.0,17.0,17,+2 Laps,
+2021,17,Austin,Alpine,ALO,14.0,19.0,R,Rear wing,
+2021,17,Austin,Alpine,OCO,11.0,11.0,R,Mechanical,
+2021,17,Austin,AlphaTauri,GAS,9.0,8.0,R,Suspension,
+2021,18,Mexico City,Red Bull Racing,VER,3.0,3.0,1,Finished,0 days 01:38:39.086000
+2021,18,Mexico City,Mercedes,HAM,2.0,2.0,2,Finished,0 days 00:00:16.555000
+2021,18,Mexico City,Red Bull Racing,PER,4.0,4.0,3,Finished,0 days 00:00:17.752000
+2021,18,Mexico City,AlphaTauri,GAS,5.0,5.0,4,Finished,0 days 00:01:03.845000
+2021,18,Mexico City,Ferrari,LEC,8.0,8.0,5,Finished,0 days 00:01:21.037000
+2021,18,Mexico City,Ferrari,SAI,6.0,6.0,6,+1 Lap,
+2021,18,Mexico City,Aston Martin,VET,11.0,9.0,7,+1 Lap,
+2021,18,Mexico City,Alfa Romeo Racing,RAI,12.0,10.0,8,+1 Lap,
+2021,18,Mexico City,Alpine,ALO,16.0,12.0,9,+1 Lap,
+2021,18,Mexico City,McLaren,NOR,10.0,18.0,10,+1 Lap,
+2021,18,Mexico City,Alfa Romeo Racing,GIO,14.0,11.0,11,+1 Lap,
+2021,18,Mexico City,McLaren,RIC,7.0,7.0,12,+1 Lap,
+2021,18,Mexico City,Alpine,OCO,15.0,19.0,13,+1 Lap,
+2021,18,Mexico City,Aston Martin,STR,20.0,20.0,14,+2 Laps,
+2021,18,Mexico City,Mercedes,BOT,1.0,1.0,15,+2 Laps,
+2021,18,Mexico City,Williams,RUS,13.0,16.0,16,+2 Laps,
+2021,18,Mexico City,Williams,LAT,17.0,13.0,17,+2 Laps,
+2021,18,Mexico City,Haas F1 Team,MAZ,19.0,15.0,18,+3 Laps,
+2021,18,Mexico City,Haas F1 Team,MSC,18.0,14.0,R,Collision,
+2021,18,Mexico City,AlphaTauri,TSU,9.0,17.0,R,Collision,
+2021,20,Lusail,Mercedes,HAM,1.0,1.0,1,Finished,0 days 01:24:28.471000
+2021,20,Lusail,Red Bull Racing,VER,2.0,7.0,2,Finished,0 days 00:00:25.743000
+2021,20,Lusail,Alpine,ALO,5.0,3.0,3,Finished,0 days 00:00:59.457000
+2021,20,Lusail,Red Bull Racing,PER,11.0,11.0,4,Finished,0 days 00:01:02.306000
+2021,20,Lusail,Alpine,OCO,9.0,9.0,5,Finished,0 days 00:01:20.570000
+2021,20,Lusail,Aston Martin,STR,12.0,12.0,6,Finished,0 days 00:01:21.274000
+2021,20,Lusail,Ferrari,SAI,7.0,5.0,7,Finished,0 days 00:01:21.911000
+2021,20,Lusail,Ferrari,LEC,13.0,13.0,8,Finished,0 days 00:01:23.126000
+2021,20,Lusail,McLaren,NOR,6.0,4.0,9,+1 Lap,
+2021,20,Lusail,Aston Martin,VET,10.0,10.0,10,+1 Lap,
+2021,20,Lusail,AlphaTauri,GAS,4.0,2.0,11,+1 Lap,
+2021,20,Lusail,McLaren,RIC,14.0,14.0,12,+1 Lap,
+2021,20,Lusail,AlphaTauri,TSU,8.0,8.0,13,+1 Lap,
+2021,20,Lusail,Alfa Romeo Racing,RAI,16.0,16.0,14,+1 Lap,
+2021,20,Lusail,Alfa Romeo Racing,GIO,18.0,18.0,15,+1 Lap,
+2021,20,Lusail,Haas F1 Team,MSC,19.0,19.0,16,+1 Lap,
+2021,20,Lusail,Williams,RUS,15.0,15.0,17,+2 Laps,
+2021,20,Lusail,Haas F1 Team,MAZ,20.0,20.0,18,+2 Laps,
+2021,20,Lusail,Williams,LAT,17.0,17.0,R,Puncture,
+2021,20,Lusail,Mercedes,BOT,3.0,6.0,R,Damage,
+2021,21,Jeddah,Mercedes,HAM,1.0,1.0,1,Finished,0 days 02:06:15.118000
+2021,21,Jeddah,Red Bull Racing,VER,3.0,3.0,2,Finished,0 days 00:00:11.825000
+2021,21,Jeddah,Mercedes,BOT,2.0,2.0,3,Finished,0 days 00:00:27.531000
+2021,21,Jeddah,Alpine,OCO,9.0,9.0,4,Finished,0 days 00:00:27.633000
+2021,21,Jeddah,McLaren,RIC,11.0,11.0,5,Finished,0 days 00:00:40.121000
+2021,21,Jeddah,AlphaTauri,GAS,6.0,6.0,6,Finished,0 days 00:00:41.613000
+2021,21,Jeddah,Ferrari,LEC,4.0,4.0,7,Finished,0 days 00:00:44.475000
+2021,21,Jeddah,Ferrari,SAI,15.0,15.0,8,Finished,0 days 00:00:46.606000
+2021,21,Jeddah,Alfa Romeo Racing,GIO,10.0,10.0,9,Finished,0 days 00:00:58.505000
+2021,21,Jeddah,McLaren,NOR,7.0,7.0,10,Finished,0 days 00:01:01.358000
+2021,21,Jeddah,Aston Martin,STR,18.0,18.0,11,Finished,0 days 00:01:17.212000
+2021,21,Jeddah,Williams,LAT,16.0,16.0,12,Finished,0 days 00:01:23.249000
+2021,21,Jeddah,Alpine,ALO,13.0,13.0,13,+1 Lap,
+2021,21,Jeddah,AlphaTauri,TSU,8.0,8.0,14,+1 Lap,
+2021,21,Jeddah,Alfa Romeo Racing,RAI,12.0,12.0,15,+1 Lap,
+2021,21,Jeddah,Aston Martin,VET,17.0,17.0,R,Collision damage,
+2021,21,Jeddah,Red Bull Racing,PER,5.0,5.0,R,Collision,
+2021,21,Jeddah,Haas F1 Team,MAZ,20.0,20.0,R,Collision,
+2021,21,Jeddah,Williams,RUS,14.0,14.0,R,Collision,
+2021,21,Jeddah,Haas F1 Team,MSC,19.0,19.0,R,Accident,
+2021,22,Yas Island,Red Bull Racing,VER,1.0,1.0,1,Finished,0 days 01:30:17.345000
+2021,22,Yas Island,Mercedes,HAM,2.0,2.0,2,Finished,0 days 00:00:02.256000
+2021,22,Yas Island,Ferrari,SAI,5.0,5.0,3,Finished,0 days 00:00:05.173000
+2021,22,Yas Island,AlphaTauri,TSU,8.0,8.0,4,Finished,0 days 00:00:05.692000
+2021,22,Yas Island,AlphaTauri,GAS,12.0,12.0,5,Finished,0 days 00:00:06.531000
+2021,22,Yas Island,Mercedes,BOT,6.0,6.0,6,Finished,0 days 00:00:07.463000
+2021,22,Yas Island,McLaren,NOR,3.0,3.0,7,Finished,0 days 00:00:59.200000
+2021,22,Yas Island,Alpine,ALO,11.0,11.0,8,Finished,0 days 00:01:01.708000
+2021,22,Yas Island,Alpine,OCO,9.0,9.0,9,Finished,0 days 00:01:04.026000
+2021,22,Yas Island,Ferrari,LEC,7.0,7.0,10,Finished,0 days 00:01:06.057000
+2021,22,Yas Island,Aston Martin,VET,15.0,15.0,11,Finished,0 days 00:01:07.527000
+2021,22,Yas Island,McLaren,RIC,10.0,10.0,12,+1 Lap,
+2021,22,Yas Island,Aston Martin,STR,13.0,13.0,13,+1 Lap,
+2021,22,Yas Island,Haas F1 Team,MSC,19.0,19.0,14,+1 Lap,
+2021,22,Yas Island,Red Bull Racing,PER,4.0,4.0,15,Engine,
+2021,22,Yas Island,Williams,LAT,16.0,16.0,R,Accident,
+2021,22,Yas Island,Alfa Romeo Racing,GIO,14.0,14.0,R,Gearbox,
+2021,22,Yas Island,Williams,RUS,17.0,17.0,R,Gearbox,
+2021,22,Yas Island,Alfa Romeo Racing,RAI,18.0,18.0,R,Brakes,
+2021,22,Yas Island,Haas F1 Team,MAZ,20.0,,W,Illness,
