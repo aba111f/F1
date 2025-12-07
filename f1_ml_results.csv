@@ -1,0 +1,179 @@
+Year,Round,Circuit,TeamName,DriverA,DriverB,Quali_Delta,Grid_Delta,Points_Delta,Experience_Delta,FavoriteTrackAdvantage,Target,TrackType_street,Predicted_Winner,Real_Winner
+2025,1,Melbourne,Ferrari,LEC,HAM,-1.0,-1.0,0.0,0,-1.6666666666666663,1,False,1,1
+2025,1,Melbourne,Ferrari,HAM,LEC,1.0,1.0,0.0,0,1.6666666666666663,0,False,0,0
+2025,1,Melbourne,Haas F1 Team,OCO,BEA,-1.0,-1.0,0.0,3,-4.0,1,False,1,1
+2025,1,Melbourne,Haas F1 Team,BEA,OCO,1.0,1.0,0.0,-3,4.0,0,False,0,0
+2025,1,Melbourne,McLaren,NOR,PIA,-1.0,-1.0,0.0,2,-3.25,1,False,1,1
+2025,1,Melbourne,McLaren,PIA,NOR,1.0,1.0,0.0,-2,3.25,0,False,0,0
+2025,1,Melbourne,Mercedes,RUS,ANT,-12.0,-12.0,0.0,4,-1.0,1,False,1,1
+2025,1,Melbourne,Mercedes,ANT,RUS,12.0,12.0,0.0,-4,1.0,0,False,0,0
+2025,3,Suzuka,Alpine,GAS,DOO,-8.0,-8.0,0.0,4,-1.333333333333334,1,False,1,1
+2025,3,Suzuka,Alpine,DOO,GAS,8.0,8.0,0.0,-4,1.333333333333334,0,False,0,0
+2025,3,Suzuka,Ferrari,LEC,HAM,-4.0,-4.0,3.0,0,-2.75,1,False,1,1
+2025,3,Suzuka,Ferrari,HAM,LEC,4.0,4.0,-3.0,0,2.75,0,False,0,0
+2025,3,Suzuka,Haas F1 Team,BEA,OCO,-8.0,-8.0,0.0,-3,-0.3333333333333339,1,False,1,1
+2025,3,Suzuka,Haas F1 Team,OCO,BEA,8.0,8.0,0.0,3,0.3333333333333339,0,False,0,0
+2025,3,Suzuka,Kick Sauber,HUL,BOR,-1.0,-1.0,6.0,3,-3.0,1,False,1,1
+2025,3,Suzuka,Kick Sauber,BOR,HUL,1.0,1.0,-6.0,-3,3.0,0,False,0,0
+2025,3,Suzuka,McLaren,NOR,PIA,-1.0,-1.0,23.0,2,0.083333333333333,1,False,1,1
+2025,3,Suzuka,McLaren,PIA,NOR,1.0,1.0,-23.0,-2,-0.083333333333333,0,False,0,0
+2025,3,Suzuka,Mercedes,RUS,ANT,-1.0,-1.0,3.0,4,0.75,1,False,1,1
+2025,3,Suzuka,Mercedes,ANT,RUS,1.0,1.0,-3.0,-4,-0.75,0,False,0,0
+2025,3,Suzuka,Racing Bulls,HAD,LAW,-7.0,-6.0,0.0,-2,-9.0,1,False,1,1
+2025,3,Suzuka,Racing Bulls,LAW,HAD,7.0,6.0,0.0,2,9.0,0,False,0,0
+2025,3,Suzuka,Red Bull Racing,VER,TSU,-14.0,-13.0,18.0,0,-11.5,1,False,1,1
+2025,3,Suzuka,Red Bull Racing,TSU,VER,14.0,13.0,-18.0,0,11.5,0,False,0,0
+2025,3,Suzuka,Williams,ALB,SAI,-3.0,-6.0,10.0,-1,1.333333333333333,1,False,1,1
+2025,3,Suzuka,Williams,SAI,ALB,3.0,6.0,-10.0,1,-1.333333333333333,0,False,0,0
+2025,4,Sakhir,Alpine,GAS,DOO,-6.0,-7.0,0.0,4,-6.0,1,False,1,1
+2025,4,Sakhir,Alpine,DOO,GAS,6.0,7.0,0.0,-4,6.0,0,False,0,0
+2025,4,Sakhir,Aston Martin,ALO,STR,-6.0,-6.0,-8.0,0,-2.0,1,False,1,1
+2025,4,Sakhir,Aston Martin,STR,ALO,6.0,6.0,8.0,0,2.0,0,False,0,0
+2025,4,Sakhir,Ferrari,LEC,HAM,-6.0,-7.0,9.0,0,-0.4500000000000002,1,False,1,1
+2025,4,Sakhir,Ferrari,HAM,LEC,6.0,7.0,-9.0,0,0.4500000000000002,0,False,0,0
+2025,4,Sakhir,Haas F1 Team,OCO,BEA,-6.0,-6.0,-1.0,3,-0.6666666666666661,1,False,1,1
+2025,4,Sakhir,Haas F1 Team,BEA,OCO,6.0,6.0,1.0,-3,0.6666666666666661,0,False,0,0
+2025,4,Sakhir,McLaren,PIA,NOR,-5.0,-5.0,-26.0,-2,-2.5,1,False,1,1
+2025,4,Sakhir,McLaren,NOR,PIA,5.0,5.0,26.0,2,2.5,0,False,0,0
+2025,4,Sakhir,Mercedes,RUS,ANT,-2.0,-2.0,5.0,4,-4.6,1,False,1,1
+2025,4,Sakhir,Mercedes,ANT,RUS,2.0,2.0,-5.0,-4,4.6,0,False,0,0
+2025,4,Sakhir,Racing Bulls,HAD,LAW,-5.0,-5.0,4.0,-2,-3.0,1,False,1,1
+2025,4,Sakhir,Racing Bulls,LAW,HAD,5.0,5.0,-4.0,2,3.0,0,False,0,0
+2025,4,Sakhir,Red Bull Racing,VER,TSU,-3.0,-3.0,43.0,0,-6.75,1,False,1,1
+2025,4,Sakhir,Red Bull Racing,TSU,VER,3.0,3.0,-43.0,0,6.75,0,False,0,0
+2025,5,Jeddah,Ferrari,LEC,HAM,-3.0,-3.0,11.0,0,-2.0,1,True,1,1
+2025,5,Jeddah,Ferrari,HAM,LEC,3.0,3.0,-11.0,0,2.0,0,True,0,0
+2025,5,Jeddah,Haas F1 Team,BEA,OCO,-4.0,-4.0,-2.0,-3,2.0,1,True,0,1
+2025,5,Jeddah,Haas F1 Team,OCO,BEA,4.0,4.0,2.0,3,-2.0,0,True,1,0
+2025,5,Jeddah,McLaren,PIA,NOR,-8.0,-8.0,-16.0,-2,-2.5333333333333323,1,True,1,1
+2025,5,Jeddah,McLaren,NOR,PIA,8.0,8.0,16.0,2,2.5333333333333323,0,True,0,0
+2025,5,Jeddah,Mercedes,RUS,ANT,-2.0,-2.0,23.0,4,-1.0,1,True,1,1
+2025,5,Jeddah,Mercedes,ANT,RUS,2.0,2.0,-23.0,-4,1.0,0,True,0,0
+2025,5,Jeddah,Racing Bulls,HAD,LAW,2.0,2.0,4.0,-2,-2.0,1,True,0,1
+2025,5,Jeddah,Racing Bulls,LAW,HAD,-2.0,-2.0,-4.0,2,2.0,0,True,1,0
+2025,5,Jeddah,Williams,SAI,ALB,-5.0,-5.0,-12.0,1,-3.75,1,True,1,1
+2025,5,Jeddah,Williams,ALB,SAI,5.0,5.0,12.0,-1,3.75,0,True,0,0
+2025,7,Imola,Alpine,GAS,COL,-5.0,-6.0,6.0,3,-6.0,1,False,1,1
+2025,7,Imola,Alpine,COL,GAS,5.0,6.0,-6.0,-3,6.0,0,False,0,0
+2025,7,Imola,Aston Martin,ALO,STR,-3.0,-3.0,-8.0,0,-0.166666666666666,1,False,1,1
+2025,7,Imola,Aston Martin,STR,ALO,3.0,3.0,8.0,0,0.166666666666666,0,False,0,0
+2025,7,Imola,Ferrari,HAM,LEC,1.0,1.0,-20.0,0,-0.333333333333333,1,False,0,1
+2025,7,Imola,Ferrari,LEC,HAM,-1.0,-1.0,20.0,0,0.333333333333333,0,False,1,0
+2025,7,Imola,Kick Sauber,HUL,BOR,3.0,3.0,6.0,3,-6.0,1,False,1,1
+2025,7,Imola,Kick Sauber,BOR,HUL,-3.0,-3.0,-6.0,-3,6.0,0,False,0,0
+2025,7,Imola,McLaren,NOR,PIA,3.0,3.0,3.0,2,-1.1666666666666663,1,False,1,1
+2025,7,Imola,McLaren,PIA,NOR,-3.0,-3.0,-3.0,-2,1.1666666666666663,0,False,0,0
+2025,7,Imola,Racing Bulls,HAD,LAW,-7.0,-6.0,5.0,-2,-5.0,1,False,1,1
+2025,7,Imola,Racing Bulls,LAW,HAD,7.0,6.0,-5.0,2,5.0,0,False,0,0
+2025,7,Imola,Red Bull Racing,VER,TSU,-18.0,-18.0,67.0,0,-10.0,1,False,1,1
+2025,7,Imola,Red Bull Racing,TSU,VER,18.0,18.0,-67.0,0,10.0,0,False,0,0
+2025,7,Imola,Williams,ALB,SAI,1.0,1.0,10.0,-1,-1.0,1,False,1,1
+2025,7,Imola,Williams,SAI,ALB,-1.0,-1.0,-10.0,1,1.0,0,False,0,0
+2025,8,Monaco,Ferrari,LEC,HAM,-2.0,-5.0,16.0,0,-2.75,1,True,1,1
+2025,8,Monaco,Ferrari,HAM,LEC,2.0,5.0,-16.0,0,2.75,0,True,0,0
+2025,8,Monaco,McLaren,NOR,PIA,-2.0,-2.0,6.0,2,1.1666666666666663,1,True,1,1
+2025,8,Monaco,McLaren,PIA,NOR,2.0,2.0,-6.0,-2,-1.1666666666666663,0,True,0,0
+2025,9,Barcelona,Alpine,GAS,COL,-11.0,-10.0,6.0,3,-5.0,1,False,1,1
+2025,9,Barcelona,Alpine,COL,GAS,11.0,10.0,-6.0,-3,5.0,0,False,0,0
+2025,9,Barcelona,Ferrari,LEC,HAM,2.0,2.0,24.0,0,2.35,1,False,0,1
+2025,9,Barcelona,Ferrari,HAM,LEC,-2.0,-2.0,-24.0,0,-2.35,0,False,1,0
+2025,9,Barcelona,Haas F1 Team,OCO,BEA,2.0,2.0,2.0,3,-7.0,1,False,1,1
+2025,9,Barcelona,Haas F1 Team,BEA,OCO,-2.0,-2.0,-2.0,-3,7.0,0,False,0,0
+2025,9,Barcelona,Kick Sauber,HUL,BOR,4.0,3.0,6.0,3,-4.0,1,False,1,1
+2025,9,Barcelona,Kick Sauber,BOR,HUL,-4.0,-3.0,-6.0,-3,4.0,0,False,0,0
+2025,9,Barcelona,McLaren,PIA,NOR,-1.0,-1.0,-16.0,-2,-1.0,1,False,1,1
+2025,9,Barcelona,McLaren,NOR,PIA,1.0,1.0,16.0,2,1.0,0,False,0,0
+2025,9,Barcelona,Racing Bulls,HAD,LAW,-4.0,-4.0,7.0,-2,-4.0,1,False,1,1
+2025,9,Barcelona,Racing Bulls,LAW,HAD,4.0,4.0,-7.0,2,4.0,0,False,0,0
+2025,9,Barcelona,Red Bull Racing,VER,TSU,-17.0,-16.0,103.0,0,-8.666666666666666,1,False,1,1
+2025,9,Barcelona,Red Bull Racing,TSU,VER,17.0,16.0,-103.0,0,8.666666666666666,0,False,0,0
+2025,10,Montréal,Ferrari,LEC,HAM,3.0,3.0,31.0,0,0.666666666666667,1,False,0,1
+2025,10,Montréal,Ferrari,HAM,LEC,-3.0,-3.0,-31.0,0,-0.666666666666667,0,False,1,0
+2025,10,Montréal,Mercedes,RUS,ANT,-3.0,-3.0,43.0,4,-0.3333333333333335,1,False,1,1
+2025,10,Montréal,Mercedes,ANT,RUS,3.0,3.0,-43.0,-4,0.3333333333333335,0,False,0,0
+2025,11,Spielberg,Ferrari,LEC,HAM,-2.0,-2.0,33.0,0,2.6666666666666665,1,False,1,1
+2025,11,Spielberg,Ferrari,HAM,LEC,2.0,2.0,-33.0,0,-2.6666666666666665,0,False,0,0
+2025,11,Spielberg,McLaren,NOR,PIA,-2.0,-2.0,-3.0,2,1.0,1,False,1,1
+2025,11,Spielberg,McLaren,PIA,NOR,2.0,2.0,3.0,-2,-1.0,0,False,0,0
+2025,12,Silverstone,Aston Martin,STR,ALO,9.0,10.0,0.0,0,2.5,1,False,0,1
+2025,12,Silverstone,Aston Martin,ALO,STR,-9.0,-10.0,0.0,0,-2.5,0,False,1,0
+2025,12,Silverstone,Ferrari,HAM,LEC,-1.0,-1.0,-36.0,0,-6.25,1,False,1,1
+2025,12,Silverstone,Ferrari,LEC,HAM,1.0,1.0,36.0,0,6.25,0,False,0,0
+2025,12,Silverstone,Haas F1 Team,BEA,OCO,-7.0,4.0,-2.0,-3,-2.0,1,False,1,1
+2025,12,Silverstone,Haas F1 Team,OCO,BEA,7.0,-4.0,2.0,3,2.0,0,False,0,0
+2025,12,Silverstone,McLaren,NOR,PIA,1.0,1.0,4.0,2,-0.3333333333333335,1,False,1,1
+2025,12,Silverstone,McLaren,PIA,NOR,-1.0,-1.0,-4.0,-2,0.3333333333333335,0,False,0,0
+2025,12,Silverstone,Williams,ALB,SAI,3.0,4.0,16.0,-1,1.333333333333334,1,False,0,1
+2025,12,Silverstone,Williams,SAI,ALB,-3.0,-4.0,-16.0,1,-1.333333333333334,0,False,1,0
+2025,14,Budapest,Aston Martin,ALO,STR,-1.0,-1.0,-4.0,0,-1.9333333333333336,1,False,1,1
+2025,14,Budapest,Aston Martin,STR,ALO,1.0,1.0,4.0,0,1.9333333333333336,0,False,0,0
+2025,14,Budapest,McLaren,NOR,PIA,1.0,1.0,11.0,2,0.3333333333333335,1,False,0,1
+2025,14,Budapest,McLaren,PIA,NOR,-1.0,-1.0,-11.0,-2,-0.3333333333333335,0,False,1,0
+2025,15,Zandvoort,Alpine,COL,GAS,2.0,2.0,-18.0,-3,3.0,1,False,0,1
+2025,15,Zandvoort,Alpine,GAS,COL,-2.0,-2.0,18.0,3,-3.0,0,False,1,0
+2025,15,Zandvoort,Aston Martin,STR,ALO,10.0,9.0,0.0,0,3.666666666666667,1,False,0,1
+2025,15,Zandvoort,Aston Martin,ALO,STR,-10.0,-9.0,0.0,0,-3.666666666666667,0,False,1,0
+2025,15,Zandvoort,Haas F1 Team,BEA,OCO,1.0,2.0,-2.0,-3,-3.666666666666666,1,False,1,1
+2025,15,Zandvoort,Haas F1 Team,OCO,BEA,-1.0,-2.0,2.0,3,3.666666666666666,0,False,0,0
+2025,15,Zandvoort,Kick Sauber,HUL,BOR,4.0,4.0,27.0,3,-2.0,1,False,1,1
+2025,15,Zandvoort,Kick Sauber,BOR,HUL,-4.0,-4.0,-27.0,-3,2.0,0,False,0,0
+2025,15,Zandvoort,Mercedes,RUS,ANT,-6.0,-6.0,79.0,4,-6.666666666666666,1,False,1,1
+2025,15,Zandvoort,Mercedes,ANT,RUS,6.0,6.0,-79.0,-4,6.666666666666666,0,False,0,0
+2025,15,Zandvoort,Racing Bulls,HAD,LAW,-4.0,-4.0,1.0,-2,-9.5,1,False,1,1
+2025,15,Zandvoort,Racing Bulls,LAW,HAD,4.0,4.0,-1.0,2,9.5,0,False,0,0
+2025,15,Zandvoort,Red Bull Racing,VER,TSU,-9.0,-9.0,134.0,0,-10.5,1,False,1,1
+2025,15,Zandvoort,Red Bull Racing,TSU,VER,9.0,9.0,-134.0,0,10.5,0,False,0,0
+2025,15,Zandvoort,Williams,ALB,SAI,6.0,6.0,20.0,-1,-1.0,1,False,0,1
+2025,15,Zandvoort,Williams,SAI,ALB,-6.0,-6.0,-20.0,1,1.0,0,False,1,0
+2025,16,Monza,Ferrari,LEC,HAM,-1.0,-6.0,36.0,0,-2.75,1,False,1,1
+2025,16,Monza,Ferrari,HAM,LEC,1.0,6.0,-36.0,0,2.75,0,False,0,0
+2025,16,Monza,McLaren,NOR,PIA,-1.0,-1.0,-7.0,2,-0.666666666666667,1,False,1,1
+2025,16,Monza,McLaren,PIA,NOR,1.0,1.0,7.0,-2,0.666666666666667,0,False,0,0
+2025,16,Monza,Mercedes,RUS,ANT,-1.0,-1.0,91.0,4,-4.0,1,False,1,1
+2025,16,Monza,Mercedes,ANT,RUS,1.0,1.0,-91.0,-4,4.0,0,False,0,0
+2025,16,Monza,Racing Bulls,HAD,LAW,-4.0,1.0,16.0,-2,-2.5,1,False,1,1
+2025,16,Monza,Racing Bulls,LAW,HAD,4.0,-1.0,-16.0,2,2.5,0,False,0,0
+2025,16,Monza,Red Bull Racing,VER,TSU,-9.0,-8.0,150.0,0,-11.25,1,False,1,1
+2025,16,Monza,Red Bull Racing,TSU,VER,9.0,8.0,-150.0,0,11.25,0,False,0,0
+2025,16,Monza,Williams,ALB,SAI,1.0,1.0,30.0,-1,2.166666666666667,1,False,0,1
+2025,16,Monza,Williams,SAI,ALB,-1.0,-1.0,-30.0,1,-2.166666666666667,0,False,1,0
+2025,17,Baku,Aston Martin,ALO,STR,-3.0,-3.0,-2.0,0,-8.5,1,True,1,1
+2025,17,Baku,Aston Martin,STR,ALO,3.0,3.0,2.0,0,8.5,0,True,0,0
+2025,17,Baku,Ferrari,HAM,LEC,2.0,2.0,-40.0,0,4.0,1,True,0,1
+2025,17,Baku,Ferrari,LEC,HAM,-2.0,-2.0,40.0,0,-4.0,0,True,1,0
+2025,17,Baku,Haas F1 Team,BEA,OCO,-5.0,-5.0,5.0,-3,-1.0,1,True,1,1
+2025,17,Baku,Haas F1 Team,OCO,BEA,5.0,5.0,-5.0,3,1.0,0,True,0,0
+2025,17,Baku,Kick Sauber,BOR,HUL,-4.0,-4.0,-23.0,-3,-2.5,1,True,1,1
+2025,17,Baku,Kick Sauber,HUL,BOR,4.0,4.0,23.0,3,2.5,0,True,0,0
+2025,17,Baku,Mercedes,RUS,ANT,1.0,1.0,99.0,4,-1.3333333333333337,1,True,1,1
+2025,17,Baku,Mercedes,ANT,RUS,-1.0,-1.0,-99.0,-4,1.3333333333333337,0,True,0,0
+2025,17,Baku,Racing Bulls,LAW,HAD,-5.0,-5.0,-17.0,2,-5.0,1,True,1,1
+2025,17,Baku,Racing Bulls,HAD,LAW,5.0,5.0,17.0,-2,5.0,0,True,0,0
+2025,17,Baku,Red Bull Racing,VER,TSU,-5.0,-5.0,175.0,0,-6.333333333333332,1,True,1,1
+2025,17,Baku,Red Bull Racing,TSU,VER,5.0,5.0,-175.0,0,6.333333333333332,0,True,0,0
+2025,17,Baku,Williams,SAI,ALB,-17.0,-17.0,-36.0,1,-5.166666666666666,1,True,1,1
+2025,17,Baku,Williams,ALB,SAI,17.0,17.0,36.0,-1,5.166666666666666,0,True,0,0
+2025,18,Marina Bay,Ferrari,LEC,HAM,1.0,1.0,38.0,0,-2.25,1,False,1,1
+2025,18,Marina Bay,Ferrari,HAM,LEC,-1.0,-1.0,-38.0,0,2.25,0,False,0,0
+2025,18,Marina Bay,McLaren,NOR,PIA,2.0,2.0,2.0,2,-2.166666666666667,1,False,1,1
+2025,18,Marina Bay,McLaren,PIA,NOR,-2.0,-2.0,-2.0,-2,2.166666666666667,0,False,0,0
+2025,18,Marina Bay,Mercedes,RUS,ANT,-3.0,-3.0,105.0,4,-2.5,1,False,1,1
+2025,18,Marina Bay,Mercedes,ANT,RUS,3.0,3.0,-105.0,-4,2.5,0,False,0,0
+2025,20,Mexico City,Ferrari,LEC,HAM,-1.0,-1.0,42.0,0,-0.75,1,False,1,1
+2025,20,Mexico City,Ferrari,HAM,LEC,1.0,1.0,-42.0,0,0.75,0,False,0,0
+2025,20,Mexico City,Haas F1 Team,BEA,OCO,-2.0,-2.0,7.0,-3,-6.666666666666666,1,False,1,1
+2025,20,Mexico City,Haas F1 Team,OCO,BEA,2.0,2.0,-7.0,3,6.666666666666666,0,False,0,0
+2025,20,Mexico City,McLaren,NOR,PIA,-7.0,-6.0,5.0,2,-2.5,1,False,1,1
+2025,20,Mexico City,McLaren,PIA,NOR,7.0,6.0,-5.0,-2,2.5,0,False,0,0
+2025,20,Mexico City,Mercedes,ANT,RUS,2.0,2.0,-120.0,-4,0.0,1,False,0,1
+2025,20,Mexico City,Mercedes,RUS,ANT,-2.0,-2.0,120.0,4,0.0,0,False,1,0
+2025,20,Mexico City,Red Bull Racing,VER,TSU,-6.0,-5.0,210.0,0,-8.75,1,False,1,1
+2025,20,Mexico City,Red Bull Racing,TSU,VER,6.0,5.0,-210.0,0,8.75,0,False,0,0
+2025,22,Las Vegas,Ferrari,LEC,HAM,-11.0,-10.0,56.0,0,-2.333333333333333,1,True,1,1
+2025,22,Las Vegas,Ferrari,HAM,LEC,11.0,10.0,-56.0,0,2.333333333333333,0,True,0,0
+2025,22,Las Vegas,Haas F1 Team,OCO,BEA,-1.0,-1.0,-17.0,3,-3.5,1,True,1,1
+2025,22,Las Vegas,Haas F1 Team,BEA,OCO,1.0,1.0,17.0,-3,3.5,0,True,0,0
+2025,22,Las Vegas,Mercedes,RUS,ANT,-13.0,-13.0,118.0,4,0.6666666666666665,1,True,1,1
+2025,22,Las Vegas,Mercedes,ANT,RUS,13.0,13.0,-118.0,-4,-0.6666666666666665,0,True,0,0
+2025,22,Las Vegas,Red Bull Racing,VER,TSU,-17.0,-18.0,225.0,0,-8.166666666666666,1,True,1,1
+2025,22,Las Vegas,Red Bull Racing,TSU,VER,17.0,18.0,-225.0,0,8.166666666666666,0,True,0,0
